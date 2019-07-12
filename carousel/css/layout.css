@@ -1,0 +1,20 @@
+.carousel-container
+{
+
+    position: relative;
+    width:500px;
+    height:500px;
+    margin-left:500px;
+    overflow: hidden;
+}
+
+.carousel-image-wrapper{
+    position:absolute;
+    width:1500px;
+}
+
+.carousel-image-wrapper img{
+    margin-right:-4px;
+    height:500px;
+    width:500px;
+}

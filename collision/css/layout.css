@@ -1,0 +1,14 @@
+.small-boxes{
+    width:10px;
+    height:10px;
+    border:1px solid black;
+    border-radius:50%;
+    position:absolute;
+    background-color:blue;
+}
+
+#parentbox{
+    
+    position:relative;
+    background-color:grey;
+}
